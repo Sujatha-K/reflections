@@ -10,3 +10,9 @@ Whe we do commit manually we know when a major change was made and it actually r
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 Git makes it easier to navigate through the different versions as the entire repository is commited in one go.However, it is relatively difficult when it comes to different files commited separately.
 
+How might using version control make you more confident to make changes that could break something?
+One could freely make any changes (changes that may even majorly alter the code) without any fear as he always has the option to revert the code back to its original using version control.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+To develop programs, what else!
+
