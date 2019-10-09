@@ -3,3 +3,6 @@ When more than 1 person wants to work or collaborate on a project, it is best to
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 If pulling changes happens automatically then e=we may come across codes with incomplete features or codes that cannot be run.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are used to clone repo within github. Clones are used when we get the repo from github to our local machine. Branches are used to experiment on our projects.
